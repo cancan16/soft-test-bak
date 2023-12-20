@@ -1,0 +1,8 @@
+.idea/
+logs/
+target/
+.txlcn/
+
+*.iml
+*.versionsBackup
+register-center/nacos/bin/derby.log
